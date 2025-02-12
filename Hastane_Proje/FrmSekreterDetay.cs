@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Hastane_Proje
 {
-    public partial class FrmBilgiDuzenle : Form
+    public partial class FrmSekreterDetay : Form
     {
-        public FrmBilgiDuzenle()
+        public FrmSekreterDetay()
         {
             InitializeComponent();
         }
 
-        private void cmbCinsiyet_SelectedIndexChanged(object sender, EventArgs e)
+        private void label9_Click(object sender, EventArgs e)
         {
 
         }

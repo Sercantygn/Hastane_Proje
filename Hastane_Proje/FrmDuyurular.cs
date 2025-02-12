@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Hastane_Proje
 {
-    public partial class FrmBilgiDuzenle : Form
+    public partial class FrmDuyurular : Form
     {
-        public FrmBilgiDuzenle()
+        public FrmDuyurular()
         {
             InitializeComponent();
-        }
-
-        private void cmbCinsiyet_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
